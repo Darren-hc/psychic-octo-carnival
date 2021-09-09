@@ -1,0 +1,19 @@
+{
+  "name": "week6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darren-hc/psychic-octo-carnival.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darren-hc/psychic-octo-carnival/issues"
+  },
+  "homepage": "https://github.com/Darren-hc/psychic-octo-carnival#readme"
+}
